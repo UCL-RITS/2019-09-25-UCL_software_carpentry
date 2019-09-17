@@ -13,7 +13,7 @@ startdate: 2019-09-25      # machine-readable start date for the workshop in YYY
 enddate: 2019-09-26        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["David Pérez-Suárez", "Ben Waugh"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Frank Otto", "John Deacon", ""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["fixme@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["b.waugh@ucl.ac.uk","rc-softdev@ucl.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -138,8 +138,9 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
+  <strong>Requirements:</strong> If possible, participants should bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  PCs will be available if needed, with the Desktop@UCL Windows environment.
 </p>
 
 {% comment%}
@@ -166,6 +167,9 @@ special instructions.
   <li>Accessible restrooms are available.</li>
 </ul>
 <p>
+  Wheelchair access is via the Gower Place entrance. The door and lift
+  require a Physics access card, so please contact us in advance or use
+  the deliveries entry phone.
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
   organizers in advance.  If we can help making learning easier for
